@@ -20,3 +20,5 @@ Then it pick a task randomly for you
 
 ## Mobile view
 ![](public/images/screenshot/indecisionMobile.png)
+
+Inspired by Andrew Mead.
