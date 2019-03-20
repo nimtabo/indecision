@@ -16,9 +16,9 @@ Then it pick a task randomly for you
   yarn run dev-server
 ```
 ## Desktop view
-![](public/images/screenshot/indecisionDesktop2.png)
+![desktop view](public/images/screenshot/indecisionDesktop2.png)
 
 ## Mobile view
-![](public/images/screenshot/indecisionMobile.png)
+![mobile view](public/images/screenshot/indecisionMobile.png)
 
 Inspired by Andrew Mead.
